@@ -1,0 +1,9 @@
+read identifier ;
+if number < number then
+identifier := number ;
+repeat
+identifier := identifier * identifier ;
+identifier := identifier - number ;
+until identifier = number ;
+write identifier
+end

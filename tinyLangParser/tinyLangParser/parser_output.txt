@@ -1,0 +1,13 @@
+Read Statment is found
+Comparison is found
+Assignment is found
+Multiplication operation is found
+Assignment is found
+Subtraction operation is found
+Assignment is found
+Comparison is found
+Repeat is found
+Write Statment is found
+if Statment is found
+program is found
+Read Statment is found
